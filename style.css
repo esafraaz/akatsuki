@@ -1,0 +1,64 @@
+.first-section{
+    background-image: linear-gradient(rgb(105, 2, 2), white);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 20px 200px;
+    margin-bottom: 40px;
+}
+.sections{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background-image: linear-gradient(rgb(223, 119, 119) rgb(90, 2, 2), rgb(224, 125, 125));
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    display: flex;
+    padding: 20px 200px;
+}
+h1{
+    color: aliceblue;
+    padding-left: 5%;
+    text-shadow: 0 0 5px #FF0000, 0 0 8px #05051a;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    margin: 0;
+
+}
+.boxed{
+    color: aliceblue;
+    padding: 5%;
+    box-shadow: 2px 5px 2px 5px rgb(114, 29, 29);
+    border-left: 7px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(255, 0, 0));
+    width: 50%;
+}
+.button{
+    text-decoration: none;
+    margin-top: 30px;
+    padding: 2%;
+    background-image: linear-gradient(rgb(65, 82, 5), rgb(236, 226, 226));
+    border-radius: 5px;
+}
+
+.heading_left{
+    color: red;
+    padding-left: 5%;
+    text-shadow: 0 0 5px #FF0000, 0 0 8px #05051a;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.heading_right{
+    color: red;
+    text-shadow: 0 0 5px #FF0000, 0 0 8px #05051a;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text-position{
+    padding-left: 400px;
+}
+
+
+
